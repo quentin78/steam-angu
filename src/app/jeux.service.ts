@@ -277,19 +277,15 @@ export class JeuxService {
   ]
 
   constructor() {
-    let genres = new Object();
+    // let genres = new Object();
 
-    for()
+    // for()
   }
 
 }
 
 
 
-export class JeuxGenre {
-  dsdq
-  
-}
 
 
 
